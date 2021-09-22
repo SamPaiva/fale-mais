@@ -1,0 +1,16 @@
+C:\Workspace\FaleMais\FaleMais\obj\Debug\net5.0\FaleMais.csproj.AssemblyReference.cache
+C:\Workspace\FaleMais\FaleMais\obj\Debug\net5.0\FaleMais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\FaleMais\FaleMais\obj\Debug\net5.0\FaleMais.AssemblyInfoInputs.cache
+C:\Workspace\FaleMais\FaleMais\obj\Debug\net5.0\FaleMais.AssemblyInfo.cs
+C:\Workspace\FaleMais\FaleMais\obj\Debug\net5.0\FaleMais.csproj.CoreCompileInputs.cache
+C:\Workspace\FaleMais\FaleMais\bin\Debug\net5.0\FaleMais.exe
+C:\Workspace\FaleMais\FaleMais\bin\Debug\net5.0\FaleMais.deps.json
+C:\Workspace\FaleMais\FaleMais\bin\Debug\net5.0\FaleMais.runtimeconfig.json
+C:\Workspace\FaleMais\FaleMais\bin\Debug\net5.0\FaleMais.runtimeconfig.dev.json
+C:\Workspace\FaleMais\FaleMais\bin\Debug\net5.0\FaleMais.dll
+C:\Workspace\FaleMais\FaleMais\bin\Debug\net5.0\ref\FaleMais.dll
+C:\Workspace\FaleMais\FaleMais\bin\Debug\net5.0\FaleMais.pdb
+C:\Workspace\FaleMais\FaleMais\obj\Debug\net5.0\FaleMais.dll
+C:\Workspace\FaleMais\FaleMais\obj\Debug\net5.0\ref\FaleMais.dll
+C:\Workspace\FaleMais\FaleMais\obj\Debug\net5.0\FaleMais.pdb
+C:\Workspace\FaleMais\FaleMais\obj\Debug\net5.0\FaleMais.genruntimeconfig.cache
